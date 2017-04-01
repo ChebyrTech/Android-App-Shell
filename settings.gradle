@@ -1,0 +1,3 @@
+include ':app', ':appshell'
+//include ':app', ':myandroidlib'
+//project(':myandroidlib').projectDir = new File(PATH_TO_YOUR_MODULE)
